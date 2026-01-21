@@ -1,10 +1,8 @@
-name = "annisaku"
+name = "adinda"
 main = "index.js"
 compatibility_date = "2024-01-01"
 compatibility_flags = [ "nodejs_compat" ]
-
 [observability]
 enabled = true
-
 [vars]
 AUTHOR = "AngelaImut"
