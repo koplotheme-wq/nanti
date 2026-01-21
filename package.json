@@ -1,0 +1,16 @@
+{
+  "name": "annisaku",
+  "version": "1.0.0",
+  "type": "module",
+     "private": true,
+  "scripts": {
+    "build": "echo 'No build command needed'"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
